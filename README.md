@@ -1,3 +1,7 @@
+#admin login
+vaishnavideshmane2003@gmail.com
+pass- Admin@123#
+
 # Store Rating Platform
 
 A full-stack web application where users can browse stores and submit ratings. Built with Express.js, PostgreSQL (Prisma ORM), and React (Vite).
