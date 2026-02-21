@@ -120,16 +120,16 @@ Frontend runs at: `http://localhost:5173`
 ## Test Credentials
 
 ### Admin
-- **Email:** Chaitanyaandhale6@gmail.com
-- **Password:** Admin@123
+- **Email:** vaishnavideshmane2003@gmail.com
+- **Password:** Admin@123#
 
 ### User
-- **Email:** liveff2017@gmail.com
-- **Password:** User@123
+- **Email:** chaitanyaandhale6@gmail.com
+- **Password:** Ganesha@123#
 
 ### Store Owner
-- **Email:** andhalec2@gmail.com
-- **Password:** Owner@123
+- **Email:** omkarfunde111@gmail.com
+- **Password:** Ganesha@123#
 
 ---
 
